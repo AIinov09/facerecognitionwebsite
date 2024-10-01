@@ -1,0 +1,11 @@
+.form {
+    width: 700px;
+    background:
+    radial-gradient(circle farthest-side at 0% 50%, #6b4e77 23.5%, rgba(107, 78, 119, 0) 0) 21px 30px, /* Mauve */
+    radial-gradient(circle farthest-side at 0% 50%, #2c3e50 24%, rgba(44, 62, 80, 0) 0) 19px 30px, /* Deep blue */
+    linear-gradient(#6b4e77 14%, rgba(107, 78, 119, 0) 0, rgba(107, 78, 119, 0) 85%, #6b4e77 0) 0 0, /* Mauve */
+    linear-gradient(150deg, #6b4e77 24%, #2c3e50 0, #2c3e50 26%, rgba(107, 78, 119, 0) 0, rgba(107, 78, 119, 0) 74%, #2c3e50 0, #2c3e50 76%, #6b4e77 0) 0 0, /* Mauve and deep blue */
+    linear-gradient(30deg, #6b4e77 24%, #2c3e50 0, #2c3e50 26%, rgba(107, 78, 119, 0) 0, rgba(107, 78, 119, 0) 74%, #2c3e50 0, #2c3e50 76%, #6b4e77 0) 0 0, /* Mauve and deep blue */
+    linear-gradient(90deg, #2c3e50 2%, #6b4e77 0, #6b4e77 98%, #2c3e50 0%) 0 0 #6b4e77; /* Deep blue and mauve */
+    background-size: 40px 60px;
+}
